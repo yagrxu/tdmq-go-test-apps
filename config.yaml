@@ -1,0 +1,8 @@
+pulsar:
+  cluster: 
+    url: "test-cluster"
+    token: "test-token"
+  producer:
+    topic: "test-topic"
+  consumer:
+    topic: "test-topic"
